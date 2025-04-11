@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/surfersway-portfolio/static/css/main.d4492a03.css",
+    "main.css": "/surfersway-portfolio/static/css/main.20918f47.css",
     "main.js": "/surfersway-portfolio/static/js/main.c10ce429.js",
     "static/media/ida.jpeg": "/surfersway-portfolio/static/media/ida.da2cba709528c7cd294c.jpeg",
     "static/media/hero.png": "/surfersway-portfolio/static/media/hero.f3be2a6e968c6efea107.png",
     "static/media/about.png": "/surfersway-portfolio/static/media/about.847bb237237ec8b49b7e.png",
     "index.html": "/surfersway-portfolio/index.html",
-    "main.d4492a03.css.map": "/surfersway-portfolio/static/css/main.d4492a03.css.map",
+    "main.20918f47.css.map": "/surfersway-portfolio/static/css/main.20918f47.css.map",
     "main.c10ce429.js.map": "/surfersway-portfolio/static/js/main.c10ce429.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4492a03.css",
+    "static/css/main.20918f47.css",
     "static/js/main.c10ce429.js"
   ]
 }
