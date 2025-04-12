@@ -36,3 +36,19 @@
 html{
     scroll-behavior: smooth;
 }
+
+.whatsappIcon:hover{
+    background: #128c7e;
+     color:white;
+     border-radius: 20px;
+}
+.linkedinIcon:hover{
+    background: #0077B5;
+    color:white;
+    border-radius: 5px
+}
+.instagramIcon:hover{
+    background: linear-gradient(45deg, #feda75, #fa7e1e, #d62976, #962fbf, #4f5bd5);
+    color:white;
+    border-radius: 5px
+}

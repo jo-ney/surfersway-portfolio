@@ -9,9 +9,9 @@ export default function Hero(){
             <p className="pt-5 text-2xl">Im a Full-stack Web Developer.</p>
             </h1>
             <div className="flex py-5 text-4xl gap-2">
-                <a className="" target="_blank" href="https://www.linkedin.com/in/joney-abraham-7b4530249"><AiOutlineLinkedin/></a>
-                <a className="" target="_blank" href="https://www.instagram.com/_.joney__/profilecard/?igsh=MXY0bm8zNWZvcmRubw=="><AiOutlineInstagram/></a>
-                <a className="" target="_blank" href="https://wa.me/+916369212574?Hi"><AiOutlineWhatsApp/></a>
+                <a className="linkedinIcon" target="_blank" href="https://www.linkedin.com/in/joney-abraham-7b4530249"><AiOutlineLinkedin/></a>
+                <a className="instagramIcon" target="_blank" href="https://www.instagram.com/_.joney__/profilecard/?igsh=MXY0bm8zNWZvcmRubw=="><AiOutlineInstagram/></a>
+                <a className="whatsappIcon" target="_blank" href="https://wa.me/+916369212574?Hi"><AiOutlineWhatsApp/></a>
             </div>
         </div>
 
